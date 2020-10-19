@@ -5,7 +5,8 @@ return a+b;
 }
 public static void main(String []args)
 {
-   add(5,6);
+  int c = add(5,6);
+   system.out.println(c);
 }
 
 }
